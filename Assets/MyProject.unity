@@ -555,6 +555,7 @@ GameObject:
   - component: {fileID: 1652954094}
   - component: {fileID: 1652954097}
   - component: {fileID: 1652954096}
+  - component: {fileID: 1652954098}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -570,8 +571,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1652954092}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.0709475, y: -0.29602104, z: -0.0069242017, w: 0.9525178}
-  m_LocalPosition: {x: 0.01457442, y: 0.01686, z: -0.035720125}
+  m_LocalRotation: {x: 0.060881853, y: -0.25402325, z: -0.0059417714, w: 0.9652618}
+  m_LocalPosition: {x: 0.01243198, y: 0.014381581, z: -0.030469267}
   m_LocalScale: {x: 0.02, y: 0.02, z: 0.02}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -667,6 +668,33 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!1773428102 &1652954098
+ParentConstraint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652954092}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Weight: 0.147
+  m_TranslationAtRest: {x: 0.01243198, y: 0.014381581, z: -0.030469267}
+  m_RotationAtRest: {x: 6.575663, y: -29.628477, z: -2.4462593}
+  m_TranslationOffsets:
+  - {x: 0.62159896, y: 0.7190791, z: -1.5234632}
+  m_RotationOffsets:
+  - {x: 6.575665, y: -29.628483, z: -2.4462597}
+  m_AffectTranslationX: 1
+  m_AffectTranslationY: 1
+  m_AffectTranslationZ: 1
+  m_AffectRotationX: 1
+  m_AffectRotationY: 1
+  m_AffectRotationZ: 1
+  m_Active: 1
+  m_IsLocked: 0
+  m_Sources:
+  - sourceTransform: {fileID: 1308634970}
+    weight: 1
 --- !u!1 &1959616820
 GameObject:
   m_ObjectHideFlags: 0
