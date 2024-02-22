@@ -1,0 +1,24 @@
+Raycast Information
+
+
+Raycasts are split up into three parts
+
+Ray: A data structure that represents a origin and a direction. Ex: A mouse as the origin and the direction it's facing
+		
+		The origin is a vector 3 position the ray start's from while the direction is a normalized vector 3
+
+		Vector: Direction and length
+		Normalized Vector 3: Direction ONLY, length of vector is ALWAYS one
+
+Direction: Target (B) - Origin (A)
+
+
+Raycast Hit (Variable): Data struct in unity that contains information about a ray's collision with an object. Can check what the object was, where the collision happened, and the tag about the object hit
+(May need to use a temporary ray hit variable inside the function the ray was called)
+
+Raycast function:
+
+		Physics.Raycast: Checks to see if a ray collided with an object in a scene and saves the information into a raycast hit variable, then returns additional information i.e if (Physics.raycast(ray, out, RaycastHit hit) 
+		
+		Raycast:  Shoots a line between a point of origin towards a direction.
+		Linecast: Draws a line between 2 known points. Returns true if a collider is detected between a defined start and end point
