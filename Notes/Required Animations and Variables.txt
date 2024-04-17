@@ -1,0 +1,28 @@
+Health
+Mana
+Defense
+Damage
+
+
+Walk
+Run
+Jump
+Double Jump
+Block
+Basic
+Heavy
+Heavy (Hold)
+Sekai Skills
+Weapon Swap
+
+Basic (Katana)
+Heavy (Katana)
+Heavy (Katana) (Hold)
+Sekai Skills (Katana)
+Weapon Swap
+
+Basic (Gun)
+Heavy (Gun)
+Heavy (Gun) (Hold)
+Sekai Skills (Gun)
+Weapon Swap
