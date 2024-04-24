@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 8ac7c034cb25e5c42ab0d83d774154ec
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Arm.004mat
+    second: {fileID: 2100000, guid: b419d1e93ac6db74c836fc295122fa3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Arm.005mat
+    second: {fileID: 2100000, guid: a552a8902a574004ca1782b5dc295f47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Arm.006mat
+    second: {fileID: 2100000, guid: c313bb13620f5164f8b4730856423005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Arm.007mat
+    second: {fileID: 2100000, guid: af0bfafee0c531e4e8699d7e7f5f6a87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Belt.001mat
+    second: {fileID: 2100000, guid: 0c2f4d7571b453641ab7e7d1e112ac95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Black.001mat
+    second: {fileID: 2100000, guid: 9da2c95e45cefb746b70d3f881fdae11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Chain.001mat
+    second: {fileID: 2100000, guid: 9e8ecfb5f07e8824481c4a6d254074e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Cloth.005mat
+    second: {fileID: 2100000, guid: 6d99563a075f0f54d9a0e43d9b2cbfa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Cloth.006mat
+    second: {fileID: 2100000, guid: 94b3bc8ff7a7f97469259ac9f19c5bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Cloth.007mat
+    second: {fileID: 2100000, guid: b0770887eeff74a4189837b3b5f68cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Cloth.008mat
+    second: {fileID: 2100000, guid: dc0334a392da2964abd41d34efea74dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Cloth.009mat
+    second: {fileID: 2100000, guid: d5ff3b587d20f6f4c98e3c8a223d0ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Eye.005mat
+    second: {fileID: 2100000, guid: 2f4e9a38039bd7f4888e5c00cf5965c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Eye.006mat
+    second: {fileID: 2100000, guid: 4c3e7ad52a0f5584092f821bc4f045ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Eye.007mat
+    second: {fileID: 2100000, guid: 002cde75043c944488549d23c6712fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Eye.008mat
+    second: {fileID: 2100000, guid: f887485e810b0bb4cb2d6b198d647775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Eye.009mat
+    second: {fileID: 2100000, guid: 6f3d0d2f50b65274189effab6963e76b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Gray.001mat
+    second: {fileID: 2100000, guid: 2c248ec5f5097ee4796676bbda58a171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Green.002mat
+    second: {fileID: 2100000, guid: 42eae69940e38ab4dba85a89badc65ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Green.003mat
+    second: {fileID: 2100000, guid: ff5b4788ee39c7a4d8726a47bd1f1aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Green_Gloss.001mat
+    second: {fileID: 2100000, guid: 0ff88960353476b48a5fe0ad1d35da96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Headparts.001mat
+    second: {fileID: 2100000, guid: d43def97ad61528458dda88973baac14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Headphone.004mat
+    second: {fileID: 2100000, guid: 49cc31622ae2b824db52ba909c47498c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Headphone.005mat
+    second: {fileID: 2100000, guid: c0e7a3b012f80a946b0671ecd7493611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Headphone.006mat
+    second: {fileID: 2100000, guid: d989f9e4b7599c143a051cba51f030a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Headphone.007mat
+    second: {fileID: 2100000, guid: 743488bb2b2453846ad6be7113ca4c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Lip.001mat
+    second: {fileID: 2100000, guid: 29eaeeff50b77d74283eff0968183fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Mouth.001mat
+    second: {fileID: 2100000, guid: 1fff931846549d54a89f66013fa2fc8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Nameplate.001mat
+    second: {fileID: 2100000, guid: 2157d559dd8649e48a723cacb7557575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Number.001mat
+    second: {fileID: 2100000, guid: 99d74e5d2d699b34eb07438f5f7cebbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Panty.001mat
+    second: {fileID: 2100000, guid: 82e7d660cb191cb44bf640de2a33a2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Skin.001mat
+    second: {fileID: 2100000, guid: 6e7592910075c1b4a96b87050e4db5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Skirt.003mat
+    second: {fileID: 2100000, guid: 2e5f9a8cfcc4a7f4fa15a4214783bb77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Skirt.004mat
+    second: {fileID: 2100000, guid: f7db5c286359e1a4087537985bf4602b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Skirt.005mat
+    second: {fileID: 2100000, guid: 504ddc7092235a84da357105e066365c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Switch.001mat
+    second: {fileID: 2100000, guid: 78bcebf232d462a4087a4bc5223e6ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Tongue.001mat
+    second: {fileID: 2100000, guid: be035a0dbfb18bf4d99270f8b710c108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_White.001mat
+    second: {fileID: 2100000, guid: c2a71ff6ed403e642a036343fd6b840e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miku_Yellow.001mat
+    second: {fileID: 2100000, guid: c85a75ed077bfcf49a00262e297ccbb1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
